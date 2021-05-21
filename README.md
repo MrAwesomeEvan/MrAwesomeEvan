@@ -1,10 +1,4 @@
-Hi, I'm Evan
+# Hi, I'm Evan
+## I'm just a guy that likes to do stuff.
 
-I do stuff.
-
-
-Most of it isn't on Github but DM me or something if you need stuff.
-
-Discord.com: Awesome#8626
-
-Twitter: meester_awesome
+Most of my stuff isn't on Github but please DM me if you need something!
